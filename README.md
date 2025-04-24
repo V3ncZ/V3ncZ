@@ -1,8 +1,8 @@
-<h1 align="center">Olá! 👋 Eu sou um Dev C# Júnior</h1>
+<h1 align="center">Olá! 👋 Eu sou um Dev Java Júnior</h1>
 
 <p align="center">
   💻 Apaixonado por tecnologia & sempre aprendendo <br/>
-  🌱 Estudando e evoluindo com C# e o ecossistema .NET <br/>
+  🌱 Estudando e evoluindo com Java e o ecossistema Spring <br/>
   🚀 Em busca de oportunidades para crescer como desenvolvedor back-end
 </p>
 
@@ -10,27 +10,26 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor C# júnior focado em construir soluções sólidas com .NET. Gosto de entender como as coisas funcionam por trás dos panos e busco sempre aplicar boas práticas desde o começo.
+Sou um desenvolvedor júnior focado em back-end, com ênfase em Java.  
+Gosto de construir soluções limpas, eficientes e de entender como tudo funciona por trás da aplicação.
 
-Atualmente estou mergulhado nos estudos de desenvolvimento web com ASP.NET e Blazor, além de explorar o Entity Framework para lidar com banco de dados de forma mais eficiente.
+Atualmente estou mergulhado nos estudos de desenvolvimento web com **Spring Boot**, criando APIs REST, explorando **JPA/Hibernate** para persistência de dados e aplicando boas práticas como **Clean Code**, SOLID e arquitetura em camadas.
 
 ---
 
 ## ⚙️ Tecnologias que uso
 
-- 💻 C# | .NET
-- 🧱 ASP.NET | Blazor
-- 🗄️ SQL Server | Entity Framework
-- 🔁 Git & GitHub
-- 🛠️ Visual Studio | VS Code
+- ☕ Java  
+- 🌱 Spring Boot | Spring Data | JPA/Hibernate  
+- 🗄️ MySQL | Oracle  
+- 🔁 Git & GitHub  
+- 🛠️ IntelliJ IDEA | VS Code | Insomnia
 
 ---
 
 ## 📚 Estudando agora
 
-- Entity Framework
-- C# avançado
-- .NET e ASP.NET
-- Blazor para interfaces modernas e reativas
-
----
+- Java moderno e boas práticas  
+- Spring Boot com APIs REST  
+- JPA e consultas com JPQL  
+- Testes unitários com JUnit  
