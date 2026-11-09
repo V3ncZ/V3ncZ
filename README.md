@@ -1,34 +1,53 @@
-# 👋 Olá! Eu sou um Dev Back-End Júnior
+# 👋 Olá! Eu sou o Vinicius
 
-💻 Apaixonado por tecnologia e por entender como as coisas funcionam por trás dos sistemas.  
-🚀 Sempre aprendendo e evoluindo com C#, .NET e Java no desenvolvimento back-end.  
-🎯 Em busca de desafios e oportunidades para crescer como desenvolvedor back-end.
+💻 **Desenvolvedor Back-End Júnior | C# e .NET**  
+🚀 Focado no desenvolvimento de APIs e aplicações web com ASP.NET Core.  
+🎯 Buscando oportunidades para contribuir com projetos e evoluir como desenvolvedor.
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor back-end focado na construção de sistemas eficientes, bem estruturados e escaláveis. Estou em constante evolução, estudando e aplicando conceitos de desenvolvimento de APIs RESTful, boas práticas como Clean Code, SOLID e arquitetura em camadas.
+Sou desenvolvedor back-end júnior com foco em **C# e no ecossistema .NET**. Desenvolvo APIs REST e aplicações web, utilizando Entity Framework Core para acesso aos dados e aplicando conceitos de Clean Code, SOLID e arquitetura em camadas.
 
-Atualmente, me aprofundo tanto no ecossistema C#/.NET quanto em Java com Spring Boot, trabalhando com bancos de dados relacionais e NoSQL, além de ter conhecimento em integração com sistemas externos e boas práticas de desenvolvimento.
+Gosto de entender como as diferentes partes de um sistema funcionam juntas, desde as regras de negócio e a persistência dos dados até a autenticação, as integrações e a publicação em produção.
 
 ---
 
 ## ⚙️ Tecnologias que utilizo
 
-- 💙 **C# | ASP.NET Core | Entity Framework**
-- ☕ **Java | Spring Boot | JPA | Hibernate**
-- 🗄️ **SQL Server | MongoDB**
-- 🔄 **Git & GitHub**
-- ☁️ **Azure**
-- 🔧 **Visual Studio | VS Code | Postman | Insomnia**
+- 💙 **Back-end:** C# | .NET | ASP.NET Core
+- 🗄️ **Persistência:** Entity Framework Core | SQL Server | MongoDB
+- 🔐 **Autenticação e autorização:** ASP.NET Core Identity | Cookies | Roles
+- 🖥️ **Interfaces web:** Blazor | HTML | CSS
+- ☁️ **Cloud:** Azure App Service | Azure Blob Storage
+- 🔄 **Versionamento:** Git | GitHub
+- 🔧 **Ferramentas:** Visual Studio | VS Code | Postman | Insomnia
+
+---
+
+## 🚀 Projeto em destaque
+
+### [FRL Treinamentos](https://frltreinamentos.com.br/)
+
+Meu primeiro projeto remunerado: uma plataforma de cursos de segurança do trabalho, na qual fui responsável pelo **back-end, front-end e publicação na Azure**.
+
+Desenvolvida com **C#, .NET 10, ASP.NET Core e Blazor no modo Interactive Server**, com Entity Framework Core e SQL Server para persistência e ASP.NET Core Identity para autenticação e autorização.
+
+**Principais funcionalidades:**
+
+- Gestão de cursos, alunos e empresas parceiras.
+- Área de aprendizado com materiais em PDF, questionários e avaliações.
+- Integração com o Mercado Pago para compra e liberação de cursos.
+- Emissão de certificados com validação pública por QR Code.
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Desenvolvimento back-end com C#/.NET e Java (Spring Boot)  
-- Arquitetura de sistemas e boas práticas (Clean Code, SOLID)  
-- Persistência de dados com Entity Framework, JPA, SQL Server e MongoDB  
-- Testes unitários e integração  
-- Deployment e CI/CD com Azure  
+- React e TypeScript para criação de interfaces e integração com APIs .NET (iniciando os estudos).
+- Desenvolvimento de APIs REST com ASP.NET Core.
+- Arquitetura em camadas, Clean Code e princípios SOLID.
+- Modelagem de dados e otimização de consultas com Entity Framework Core.
+- Testes unitários e de integração em .NET.
+- Publicação de aplicações e pipelines de CI/CD na Azure.
